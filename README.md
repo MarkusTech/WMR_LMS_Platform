@@ -63,7 +63,7 @@ Add MySQL Database (I used PlanetScale)
 ```shell
 npx prisma generate
 npx prisma db push
-
+npx prisma studio
 ```
 
 ### Start the app
