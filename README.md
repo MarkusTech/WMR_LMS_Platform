@@ -70,6 +70,7 @@ npx prisma db push
 
 ```shell
 npm run dev
+npm start
 ```
 
 ## Available commands
